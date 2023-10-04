@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="spanishweather",
-    version="0.1.3",
+    version="0.1.4",
     description="Una aplicación para obtener datos meteorológicos de la AEMET.",
     author="Miguel Blaya",
     author_email="miguel.blaya@gmail.com",
