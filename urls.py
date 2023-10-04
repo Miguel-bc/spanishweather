@@ -12,4 +12,3 @@ urls = [
     ('Prediccion Especifica Uvi','prediccion/especifica/uvi/'),
     ('Observacion Convencional Todas','observacion/convencional/todas')
 ]
-
